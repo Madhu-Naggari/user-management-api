@@ -1,17 +1,3 @@
-Here’s a clean, professional GitHub repo description + README content you can directly use 👇
-
-⸻
-
-📌 Short Repo Description (for GitHub top)
-
-RESTful User Management API built with Node.js, Express, and Prisma (SQLite). Supports CRUD operations, search, sorting, and partial updates with clean architecture.
-
-⸻
-
-📄 Full README.md (Copy & Paste)
-
-:::writing{variant=“standard” id=“48291”}
-
 🚀 User Management API
 
 A RESTful API built using Node.js, Express, and Prisma ORM (SQLite) that allows full user management with advanced features like search, sorting, and partial updates.
