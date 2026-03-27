@@ -23,7 +23,7 @@ A RESTful API built using Node.js, Express, and Prisma ORM (SQLite) that allows 
 
 📁 Project Structure
 
-user-api/
+user-management-api/
 ├── prisma/
 ├── src/
 │ ├── controllers/
@@ -40,7 +40,7 @@ user-api/
 1. Clone the repository
 
 git clone https://github.com/Madhu-Naggari/user-management-api.git
-cd user-api
+cd user-management-api
 
 2. Install dependencies
 
